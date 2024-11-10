@@ -55,11 +55,11 @@ section, article {
 aside {
     
      position: absolute;
-     top: 19%;
+     top: 18%;
      right: 30%;
      text-align: center;
      width: 7%;
-     height: 36%;
+     height: 25%;
      background-color: rgb(236, 188, 236);
      border-style: solid;
      border-color: rgb(205, 184, 243);
